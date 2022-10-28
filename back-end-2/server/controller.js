@@ -1,19 +1,3 @@
-// module.exports = {
-//     getHouses: (req, res) => {
-
-//     },
-//     createHouse: (req, res) => {
-
-//     },
-//     updateHouse: (req, res) => {
-
-//     },
-//     deleteHouse: (req, res) => {
-        
-//     }
-
-// }
-
 const houses = require('./db.json')
 let globalId = 4
 
